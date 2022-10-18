@@ -31,7 +31,7 @@ section#telefone{
     left: 50%;
     transform: translate(-50%, -50%);
     background: url(../imagens/frame-iphone.png) no-repeat;
-    z-index: 1;
+    z-index: 10;
 
 }
 
@@ -54,7 +54,7 @@ section#redes-sociais img{
     margin: 10px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.479);
     box-sizing: border-box;
-    z-index: 10;
+    z-index: 1;
 }
 
 section#redes-sociais img:hover{
